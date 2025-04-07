@@ -1,0 +1,21 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  h1, h2 {
+    font-family: 'Arial', sans-serif;
+    color: #343a40;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    border-radius: 25px;
+  }
+  
+  .navbar {
+    border-bottom: 2px solid #ddd;
+  }
+  
